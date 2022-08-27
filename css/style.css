@@ -23,3 +23,25 @@ html{
 section{
     padding: 2rem 9%;
 }
+.home .content{
+    flex: 1 1 41rem;
+}
+.home .content span{
+    font-size: 2rem;
+    color:chartreuse
+}
+.home .content h3{
+    font-size: 1.4rem;
+    color:dimgrey;
+    line-height: 2;
+    padding: 1rem 0;
+}
+.home .image {
+    flex: 11 4rem;
+    margin: 2rem 0;
+    pointer-events: none;
+}
+.home .image .home-img{
+    width: 100%;
+    margin-top: 5rem;
+}
